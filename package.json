@@ -1,0 +1,27 @@
+{
+  "name": "dynamic-stickers-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boarder-portal/dynamic-stickers-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boarder-portal/dynamic-stickers-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/boarder-portal/dynamic-stickers-telegram-bot#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "text-to-image": "^1.1.0"
+  }
+}
